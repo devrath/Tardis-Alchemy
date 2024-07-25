@@ -11,3 +11,5 @@
 ⏰ 𝙼𝚞𝚕𝚝𝚒𝚙𝚕𝚎 𝚠𝚊𝚢𝚜 𝚘𝚏 𝚖𝚊𝚗𝚊𝚐𝚒𝚗𝚐 𝚝𝚑𝚎 𝚝𝚒𝚖𝚎 𝚒𝚗 𝚊𝚗𝚍𝚛𝚘𝚒𝚍.
 
 </div>
+
+## [Kotlin Duration API](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.time/-duration/)
