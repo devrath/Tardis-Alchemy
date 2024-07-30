@@ -16,6 +16,6 @@
 
 | `Contents` |
 | ---------- |
-| [`Kotlin Duration API`](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.time/-duration/) |
+| [`Kotlin Duration API`](https://github.com/devrath/Tardis-Alchemy/wiki/Kotlin-Duration-API) |
 
 </div>
