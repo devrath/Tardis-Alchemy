@@ -51,7 +51,7 @@ fun CurrentScreen(
         AppButton(
             text = "Initiate",
             onClick = {
-                viewModel.initiate()
+                viewModel.usingIsoFormat()
             }
         )
     }
