@@ -12,4 +12,10 @@
 
 </div>
 
-## [Kotlin Duration API](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.time/-duration/)
+<div align="center">
+
+| `Contents` |
+| ---------- |
+| [Kotlin Duration API](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.time/-duration/) |
+
+</div>
