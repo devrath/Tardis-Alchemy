@@ -2,7 +2,7 @@
 
 You can contribute to us by filing issues, bugs, and PRs. You can also take a look at active issues and fix them.
 
-If you want to discuss something then feel free to present your opinions, views, or any other relevant comment on [discussions](https://github.com/devrath/probable-bookish-android-architectures/discussions).
+If you want to discuss something then feel free to present your opinions, views, or any other relevant comment on [discussions](https://github.com/devrath/Tardis-Alchemy/discussions).
 
 ### Code contribution
 
