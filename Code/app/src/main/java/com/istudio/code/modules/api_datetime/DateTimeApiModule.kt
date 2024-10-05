@@ -66,6 +66,9 @@ class DateTimeApiModule {
         val dateTime = LocalDateTime.now()
         val result = "Result:--> $dateTime"
         Log.d(tag_name, result) // 2024-10-05T12:37:53.247
+        // Parsing a date stamp from a remote API
+        val parced = LocalDateTime.parse("")
+
     }
 
 

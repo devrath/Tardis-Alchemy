@@ -7,7 +7,7 @@ import com.istudio.code.modules.api_duration.DurationApiModule
 class MainViewModel : ViewModel() {
 
     fun initiate() {
-        DateTimeApiModule().localDate()
+        DateTimeApiModule().localDateTime()
     }
 
 }
