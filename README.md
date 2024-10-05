@@ -17,5 +17,6 @@
 | `Contents` |
 | ---------- |
 | [`Kotlin Duration API`](https://github.com/devrath/Tardis-Alchemy/wiki/Kotlin-Duration-API) |
+| [`Date Time API`](https://github.com/devrath/Tardis-Alchemy/wiki/Date-Time-API) |
 
 </div>
